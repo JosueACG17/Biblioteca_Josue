@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Biblioteca_ChanJosue</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Biblioteca_ChanJosue.styles.css" asp-append-version="true" />
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <nav class="col-md-3 col-lg-2 bg-dark sidebar vh-100 position-fixed overflow-auto p-3">
+                <h4 class="text-white text-center">Biblioteca Josue</h4>
+                <hr class="text-white">
+                <ul class="nav flex-column">
+                    <div class="d-flex flex-column align-items-center">
+                        <img src="https://media.licdn.com/dms/image/v2/D4D03AQEJMZ6q4deswg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1713916849194?e=2147483647&v=beta&t=d9eytdUOAq86xdFqqgbQ-uAvXL43m4UeVhT2qBl6eYk"
+                             class="rounded-circle mb-4" width="95" height="95">
+                        <h5 class="text-white">Josue Chan</h5>
+                    </div>
+                    <li class="nav-item btn-outline-info p-2">
+                        <a class="nav-link text-white" asp-controller="" asp-action="Index">
+                            <i class="fas fa-home"></i> Articulos
+                        </a>
+                    </li>
+                    <li class="nav-item btn-outline-info p-2">
+                        <a class="nav-link text-white" asp-controller="" asp-action="Index">
+                            <i class="fas fa-users"></i> Usuario
+                        </a>
+                    </li>
+                    <li class="nav-item btn-outline-info p-2">
+                        <a class="nav-link text-white" asp-controller="" asp-action="Index">
+                            <i class="fas fa-book"></i> Tables
+                        </a>
+                    </li>
+                    <li class="nav-item btn-outline-info p-2">
+                        <a class="nav-link text-white" asp-controller="" asp-action="Index">
+                            <i class="fas fa-handshake"></i> Forms
+                        </a>
+                    </li>
+                    <li class="nav-item btn-outline-info p-2">
+                        <a class="nav-link text-white" asp-controller="" asp-action="Index">
+                            <i class="fas fa-handshake"></i> About
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+
+            <main class="col-md-9 col-lg-10 ms-auto px-md-4 py-4" style="margin-left: 16.7%;">
+                <button class="btn btn-danger d-md-none mb-3" type="button" data-bs-toggle="collapse" data-bs-target=".sidebar">
+                    <i class="fas fa-bars"></i> Menu
+                </button>
+                @RenderBody()
+            </main>
+
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

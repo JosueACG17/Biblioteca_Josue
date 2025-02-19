@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\views\\usuario\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\views\\usuario\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\views\\usuario\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|c:\\users\\cgjos\\onedrive\\documentos\\practicas.net\\biblioteca_chanjosue\\biblioteca_chanjosue\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5173FA92-313A-4497-91AB-2DD0D8736E1D}|Biblioteca_ChanJosue\\Biblioteca_ChanJosue.csproj|solutionrelative:biblioteca_chanjosue\\views\\shared\\_layoutdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:17:36.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Views\\Shared\\_LayoutDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAD0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:29:37.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Usuario\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Views\\Usuario\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Usuario\\Editar.cshtml",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Views\\Usuario\\Editar.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T02:13:09.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Usuario\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Views\\Usuario\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Usuario\\Crear.cshtml",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Views\\Usuario\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T01:56:53.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T01:46:05.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Services\\IServices\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Services\\IServices\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:41:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:29:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Services\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Biblioteca_ChanJosue\\Services\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\cgjos\\OneDrive\\Documentos\\Practicas.net\\Biblioteca_ChanJosue\\Biblioteca_ChanJosue\\Services\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "Biblioteca_ChanJosue\\Services\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:15:04.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
