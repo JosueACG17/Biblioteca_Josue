@@ -78,7 +78,7 @@
                     usuario.Nombre = request.Nombre;
                     usuario.Username = request.Username;
                     usuario.Password = request.Password;
-                    usuario.FkRol = request.FkRol; // Actualizar el rol seleccionado
+                    usuario.FkRol = request.FkRol; 
 
                     _context.Usuarios.Update(usuario);
                     _context.SaveChanges();
@@ -95,22 +95,14 @@
 
         public bool EliminarUsuario(int id)
         {
-            try
-            {
-                var usuario = _context.Usuarios.Find(id);
-                if (usuario != null)
-                {
-                    _context.Usuarios.Remove(usuario);
-                    _context.SaveChanges();
-                    return true;
-                }
-                return false;
-            }
-            catch (Exception ex)
-            {
-                throw new Exception("Error al eliminar: " + ex.Message);
-            }
+            var usuario = _context.Usuarios.Find(id);
+            if (usuario == null) return false;
+
+            _context.Usuarios.Remove(usuario);
+            _context.SaveChanges();
+            return true;
         }
+
 
         public List<Rol> ObtenerRoles()
         {

@@ -167,3 +167,4 @@ C:\Users\cgjos\OneDrive\Documentos\Practicas.net\Biblioteca_ChanJosue\Biblioteca
 C:\Users\cgjos\OneDrive\Documentos\Practicas.net\Biblioteca_ChanJosue\Biblioteca_ChanJosue\obj\Debug\net8.0\Biblioteca_ChanJosue.csproj.AssemblyReference.cache
 C:\Users\cgjos\OneDrive\Documentos\Practicas.net\Biblioteca_ChanJosue\Biblioteca_ChanJosue\obj\Debug\net8.0\Bibliote.27377C6C.Up2Date
 C:\Users\cgjos\OneDrive\Documentos\Practicas.net\Biblioteca_ChanJosue\Biblioteca_ChanJosue\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutDashboard.cshtml.rz.scp.css
+C:\Users\cgjos\OneDrive\Documentos\Practicas.net\Biblioteca_ChanJosue\Biblioteca_ChanJosue\obj\Debug\net8.0\Biblioteca_ChanJosue.sourcelink.json

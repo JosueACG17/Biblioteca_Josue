@@ -24,7 +24,7 @@ namespace Biblioteca_ChanJosue.Controllers
         public IActionResult Crear()
         {
             var roles = _usuarioServices.ObtenerRoles();
-            ViewBag.Roles = new SelectList(roles, "PkRol", "Nombre"); 
+            ViewBag.Roles = new SelectList(roles, "PkRol", "Nombre");
             return View();
         }
 
@@ -39,9 +39,8 @@ namespace Biblioteca_ChanJosue.Controllers
         public IActionResult Editar(int id)
         {
             var result = _usuarioServices.GetUsuarioById(id);
-            // Obtener la lista de roles y pasarla a la vista
             var roles = _usuarioServices.ObtenerRoles();
-            ViewBag.Roles = new SelectList(roles, "PkRol", "Nombre", result.FkRol); 
+            ViewBag.Roles = new SelectList(roles, "PkRol", "Nombre", result.FkRol);
             return View(result);
         }
 
@@ -55,8 +54,17 @@ namespace Biblioteca_ChanJosue.Controllers
         [HttpPost]
         public IActionResult Eliminar(int id)
         {
-            _usuarioServices.EliminarUsuario(id);
-            return RedirectToAction("Index");
+            var eliminado = _usuarioServices.EliminarUsuario(id);
+            if (eliminado)
+            {
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return BadRequest("No se pudo eliminar el usuario.");
+            }
         }
+
     }
+
 }
